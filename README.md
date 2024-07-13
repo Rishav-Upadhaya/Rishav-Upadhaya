@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **real time chatting system.**
 
-- 🌱 I’m currently learning **python, django etc.**
+- 🌱 I’m currently learning **python and it's libraries, django etc.**
 
 - 👯 I’m looking to collaborate on **django projects.**
 
