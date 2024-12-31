@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishav Upadhaya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Python developer from Nepal</h3>
 
 - 🔭 I’m currently working on **real time chatting system.**
 
-- 🌱 I’m currently learning **python and it's libraries, django etc.**
+- 🌱 I’m currently learning **Django (DRF), CNN (ML) etc.**
 
-- 👯 I’m looking to collaborate on **django projects.**
+- 👯 I’m looking to collaborate on **django and AI/ML projects.**
 
-- 🤝 I’m looking for help with **python, spark and hadoop.**
+- 🤝 I’m looking for help with **Django and CNN**
 
 - 📫 How to reach me **rishavupadhaya266@gmail.com**
 
