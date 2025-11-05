@@ -18,12 +18,15 @@ Former Student Partner at Leapfrog Technology, where I developed **Reviso.ai**�
 - **Backend Development**: Python, FastAPI, Django, REST APIs, Asyncio, Docker
 - **Database Systems**: PostgreSQL, Pinecone, Redis
 - **LLM Integration**: GPT-4o, Gemini API, OpenAI APIs
+- **Frontend Familiarity**: Next.js, TypeScript, TailwindCSS
 
 ## Featured Projects
 
 **Reviso.ai** — AI-powered exam generation with automated evaluation and proctoring  
 **Calendar Agent** — Intelligent scheduling system with Google Calendar integration  
-**Company Data Extraction** — LLM-based structured data parser
+**Data Extraction Agent** — LLM-based structured data parser that extracts insights from unstructured documents   
+**RAG Agent** — RAG system for educational data analysis and question-answering using LLMs and vector search    
+**Visit Nepal** — Genkit-powered AI travel app built with Next.js to help users explore Nepal
 
 ## Current Focus
 
