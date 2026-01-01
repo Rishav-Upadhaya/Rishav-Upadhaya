@@ -22,7 +22,6 @@ Former Student Partner at Leapfrog Technology, where I developed **Reviso.ai**�
 
 ## Featured Projects
 
-**Reviso.ai** — AI-powered exam generation with automated evaluation and proctoring  
 **Calendar Agent** — Intelligent scheduling system with Google Calendar integration  
 **Data Extraction Agent** — LLM-based structured data parser that extracts insights from unstructured documents   
 **RAG Agent** — RAG system for educational data analysis and question-answering using LLMs and vector search    
