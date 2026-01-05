@@ -8,9 +8,7 @@
 
 ## About Me
 
-Computer Science undergraduate specializing in **AI-driven backend solutions** and **LLM-based systems**. Currently working as an AI Engineer Intern at AsterGaze Technologies, building production-grade AI features with LangGraph, RAG pipelines, and FastAPI.
-
-Former Student Partner at Leapfrog Technology, where I developed **Reviso.ai**—an intelligent exam generation and evaluation platform powered by GPT-4o and vector search.
+Computer Science undergraduate specializing in **AI-driven backend solutions** and **LLM-based systems**. Currently working as an Software Engineer at AsterGaze Technologies, building production-grade AI features with LangGraph, RAG pipelines, and FastAPI.
 
 ## Core Expertise
 
