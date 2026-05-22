@@ -20,10 +20,10 @@ Computer Science undergraduate specializing in **AI-driven backend solutions** a
 
 ## Featured Projects
 
-**Calendar Agent** — Intelligent scheduling system with Google Calendar integration  
-**Data Extraction Agent** — LLM-based structured data parser that extracts insights from unstructured documents   
-**RAG Agent** — RAG system for educational data analysis and question-answering using LLMs and vector search    
-**Visit Nepal** — Genkit-powered AI travel app built with Next.js to help users explore Nepal
+**SWLP: Sliding Window Layer Pipeline** — Advanced FP16 streaming inference engine that enables large language models to run on machines where full models do not fit in memory.
+**Reviso.ai** — Intelligent learning and revision platform built to support structured knowledge review and student productivity.
+**JobRAG: Hybrid Search Pipeline for Job Intelligence** — Hybrid retrieval RAG system for 1,000+ job listings, combining semantic search and keyword search for better match quality.
+**DiabetesInsight: Multi-Class Prediction & Clustering Pipeline** — Machine learning system for diabetes risk classification with supervised models, clustering, PCA visualization, and evaluation.
 
 ## Current Focus
 
