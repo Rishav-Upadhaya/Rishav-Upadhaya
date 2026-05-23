@@ -19,9 +19,6 @@ Computer Science undergraduate specializing in **AI-driven backend solutions** a
 - **Frontend Familiarity**: Next.js, TypeScript, TailwindCSS
 
 ## Featured Projects
----
-
-## Featured Projects
 
 - **SWLP: Sliding Window Layer Pipeline**: Memory-efficient FP16 inference system enabling large language models to run beyond RAM limits using disk-based layer streaming.
 
@@ -30,8 +27,6 @@ Computer Science undergraduate specializing in **AI-driven backend solutions** a
 - **DiabetesInsight: Multi-Class ML System**: End-to-end machine learning pipeline for classification, clustering, and evaluation with full analysis workflow.
 
 - **Reviso.ai**: AI-powered learning system focused on structured revision and knowledge retention.
-
----
 
 ## Current Focus
 
