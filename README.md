@@ -1,38 +1,24 @@
 # Rishav Upadhaya
 
-**AI Systems Engineer** | Building reliable agentic systems and LLM-powered products with strong infrastructure and control layers.
+**AI & Backend Engineer** | Building Scalable LLM-Driven Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rishav-upadhaya/)  [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rishavupadhaya266@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rishav-upadhaya/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rishavupadhaya266@gmail.com)
 
 ---
 
 ## About Me
 
-> I build systems that make large language models **reliable, controllable, and production-ready**.
-
-My work focuses on three core areas:
-- agentic AI systems (multi-step workflows, tool usage, orchestration)
-- LLM backend infrastructure (RAG, retrieval, context systems)
-- AI product engineering (turning models into usable systems)
-
-At **AsterGaze Technologies**, I worked on production AI systems using **LangGraph, RAG pipelines, and FastAPI**, focusing on building stable and usable AI features.
-
-I am especially interested in building the **control layer around LLMs** systems that decide how, when, and why models behave in certain ways.
-
----
+Computer Science undergraduate specializing in **AI-driven backend solutions** and **LLM-based systems**. Currently working as an Software Engineer at AsterGaze Technologies, building production-grade AI features with LangGraph, RAG pipelines, and FastAPI.
 
 ## Core Expertise
 
-- **Agentic AI Systems**: LangGraph, multi-step agents, tool calling, workflow orchestration, stateful execution
+- **AI/ML Engineering**: LangChain, Langgraph, RAG Systems (Hybrid Search), Context Engineering, Vector Databases
+- **Backend Development**: Python, FastAPI, Django, REST APIs, Asyncio, Docker
+- **Database Systems**: PostgreSQL, Pinecone, Redis
+- **LLM Integration**: GPT-4o, Gemini API, OpenAI APIs
+- **Frontend Familiarity**: Next.js, TypeScript, TailwindCSS
 
-- **LLM & Retrieval Systems**: RAG pipelines, hybrid search, vector databases, context management
-
-- **AI Infrastructure & Backend**: Python, FastAPI, Django, async systems, Docker, scalable APIs
-
-- **AI Reliability & Control**: guardrails, structured outputs, validation layers, safe execution design
-
-- **AI Product Engineering**: designing usable AI features, system thinking, LLM-powered applications
-
+## Featured Projects
 ---
 
 ## Featured Projects
@@ -56,18 +42,7 @@ I am currently focused on:
 - improving retrieval quality for reasoning systems
 - building backend infrastructure for AI products
 
-My direction is toward building the **systems layer that makes LLMs usable, safe, and production-grade**.
-
----
-
-## Opportunities
-
-Open to:
-
-- AI Systems Engineering
-- Agentic AI Development
-- LLM Infrastructure
-- Backend Engineering for AI Products
+My direction is towards building scalable AI agents and retrieval-augmented generation systems that solve real-world problems.
 
 ---
 
