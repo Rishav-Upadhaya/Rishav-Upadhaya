@@ -4,7 +4,7 @@
 
 [Portfolio](https://www.rishavupadhaya.com.np) · [LinkedIn](https://www.linkedin.com/in/rishav-upadhaya/) · [Writing](https://medium.com/@rishavupadhaya266) · [Email](mailto:rishavupadhaya266@gmail.com)
 
-I build LLM systems that can be measured: retrieval quality, latency, token cost, and failure modes. Previously AI Engineer at AsterGaze Technologies (multi-agent RAG for a study-abroad CRM) and backend intern at Proshore (multi-engine OCR pipeline).
+I build LLM systems that can be measured: retrieval quality, latency, token cost, and failure modes. Experience: AI engineering at AsterGaze Technologies (multi-agent RAG for a study-abroad CRM) and a backend internship at Proshore (multi-engine OCR pipeline).
 
 ## Selected work
 
@@ -18,7 +18,7 @@ Doc-grounded answers with citations, hybrid pgvector + full-text retrieval, prov
 Normalizes MCP/A2A logs, flags anomalies against an embedding baseline of normal behaviour, and runs graph-based root-cause analysis.
 
 **[JobRAG](https://github.com/Rishav-Upadhaya/jobrag)** — job-search RAG over 1,000+ listings.
-LangGraph intent → retrieve → rerank → judge graph, pgvector HNSW, Jina reranker, FastAPI.
+LangGraph intent → retrieve → rerank → judge graph; hybrid pgvector + Postgres full-text retrieval fused with RRF; tested against real Postgres in CI.
 
 **[Booking-RAG](https://github.com/Rishav-Upadhaya/Booking-RAG)** — conversational RAG with a deterministic booking flow.
 Dense + sparse retrieval in Pinecone with bge reranking, Redis session memory, SSE streaming.
